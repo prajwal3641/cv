@@ -1,0 +1,42 @@
+/********************************TAG SELECTOR******************************/
+
+body {
+  background-color: #CDF0EA;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #CDF0EA;
+  border-width: 3px;
+  width: 100%;
+}
+
+h1 {
+  color: #D82148;
+  font-style: italic;
+}
+
+h2 {
+  color: #FFBBBB;
+}
+h3 {
+  color: #655D8A;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  background-color: #CDF0EA;
+}
+
+
+/********************************CLASS SELECTOR******************************/
+
+
+.football {
+  background-color: red;
+}
+.basketball {
+  background-color: blue;
+}
